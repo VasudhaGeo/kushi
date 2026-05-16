@@ -8,7 +8,7 @@ from streamlit_folium import st_folium
 # CONFIGURATION
 # -----------------------------
 
-API_TOKEN = st.secrets["API_KEY"]
+API_TOKEN  ="777bf216f0cc45975b12ec44385937a598aba433"
 
 # -----------------------------
 # STREAMLIT UI
